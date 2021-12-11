@@ -29,4 +29,4 @@
 
 [simple](typora.md)
 
-formula $r^2=12m$
+formula $`r^2=12m`$
