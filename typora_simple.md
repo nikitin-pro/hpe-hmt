@@ -49,7 +49,7 @@ d
 |      |        |      |  v   |      |
 |      |        |      |  v   |      |
 
-![](/home/yozh/Desktop/lecture 8/figs/01.png)
+![](figs/01.png)
 
 [^11]: xczxcsssss
 
