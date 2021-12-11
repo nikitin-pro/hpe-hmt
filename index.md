@@ -28,4 +28,3 @@
 [Регламент проведения дистанционных занятий](http://go.nikitin-pro.ru/rules)
 
 [simple](typora_simple.md)
-[exported](typora_exported.md)
