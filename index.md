@@ -28,3 +28,5 @@
 [Регламент проведения дистанционных занятий](http://go.nikitin-pro.ru/rules)
 
 [simple](typora.md)
+
+formula $r^2=12m$
