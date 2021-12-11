@@ -78,6 +78,6 @@ d
 |     |        |      | v   |     |
 |     |        |      | v   |     |
 
-![](/home/yozh/Desktop/lecture%208/figs/01.png)
+![](figs/01.png)
 
 1.  xczxcsssss
