@@ -27,4 +27,4 @@
 
 [Регламент проведения дистанционных занятий](http://go.nikitin-pro.ru/rules)
 
-[simple](hmt-lecture1.md.html)
+
